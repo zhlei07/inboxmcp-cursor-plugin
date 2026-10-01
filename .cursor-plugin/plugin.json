@@ -1,0 +1,19 @@
+{
+  "name": "inboxmcp",
+  "version": "0.1.0",
+  "description": "Read authorized IMAP email and attributed processing preferences. An optional local decision stops remaining delivery and retries for its event; source mail is unchanged.",
+  "author": {
+    "name": "Martha trade",
+    "email": "dylan@martha-trade.com"
+  },
+  "homepage": "https://inboxmcp.ai",
+  "license": "MIT",
+  "keywords": [
+    "email",
+    "imap",
+    "inbox",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "mcp.json"
+}
