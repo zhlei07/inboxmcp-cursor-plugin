@@ -1,7 +1,7 @@
 {
   "name": "inboxmcp",
-  "version": "0.1.0",
-  "description": "Read authorized IMAP email and attributed processing preferences. An optional local decision stops remaining delivery and retries for its event; source mail is unchanged.",
+  "version": "0.4.0",
+  "description": "Let Grok Bot or Cursor watch your inboxes: read and monitor Gmail, Outlook, QQ Mail, 163 and any IMAP mailbox over OAuth, with your saved preferences, built-in progress and optional push to a Grok Routine.",
   "author": {
     "name": "Martha trade",
     "email": "dylan@martha-trade.com"
@@ -10,8 +10,13 @@
   "license": "MIT",
   "keywords": [
     "email",
-    "imap",
     "inbox",
+    "imap",
+    "gmail",
+    "outlook",
+    "microsoft-365",
+    "email-monitoring",
+    "grok-bot",
     "mcp"
   ],
   "logo": "assets/logo.svg",
